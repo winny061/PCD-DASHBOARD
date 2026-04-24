@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/encon_data.json
+.env
+venv/
